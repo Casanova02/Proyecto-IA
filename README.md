@@ -3,7 +3,7 @@ Este repositorio corresponde a la presentación del proyecto de la clase de inte
 
 Miembros el grupo:
 
-  * Laura Rodriguez Cala
-  * Oscar Andres Ramirez Serna
-  * Santiago Leal Casanova
+  * Laura Rodriguez Cala - 2200168
+  * Oscar Andres Ramirez Serna - 2200185
+  * Santiago Leal Casanova - 2201095
   
