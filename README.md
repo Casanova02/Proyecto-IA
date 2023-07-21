@@ -6,7 +6,7 @@ Miembros el grupo:
 
 **Objetivo:** Clasificar la existencia de la enfermedad de la diabetes a partir de factores clínicos y hábitos de los pacientes usando algoritmos de inteligencia artificial.
 
-**Link del dataset:**https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset?select=diabetes_binary_5050split_health_indicators_BRFSS2015.csv
+**Link del dataset:** https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset?select=diabetes_binary_5050split_health_indicators_BRFSS2015.csv
 
 ## Principales metodos utilizados:
 
