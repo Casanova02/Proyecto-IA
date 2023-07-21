@@ -1,4 +1,4 @@
-# Proyecto-IA
+# Diagnóstico de diabetes a partir de factores clínicos y hábitos
 Este repositorio corresponde a la presentación del proyecto de la clase de inteligencia artificial I
 
 Miembros el grupo:
