@@ -9,16 +9,16 @@ Miembros el grupo:
 
 Este proyecto esta enfocado en el uso de un dataset medico con pacientes que padecen de la enfermedad de la diabetes y aquellos de control, donde se muestran caracteristicas relevantes de estos con el objetivo de poder clasificar la enfermedad de la diabetes.
 
-# Principales metodos utilizados
+## Principales metodos utilizados
 
-## Machine learning:
+### Machine learning:
 
   * Gaussian naive bayes
   * Desicion Tree
   * Random Forest
   * Support Vector machine
 
-##Deep learning:
+### Deep learning:
 
  * Red densa de 4 capas 
 
