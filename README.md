@@ -2,11 +2,9 @@
 
 Miembros el grupo:
 
-  * Laura Rodriguez Cala - 2200168
-  * Oscar Andres Ramirez Serna - 2200185
-  * Santiago Leal Casanova - 2201095
+**Autores:** Laura Rodriguez Cala, Oscar Andres Ramirez Serna, Santiago Leal Casanova
 
-**Objetivo:** Clasificación de la enfermedad deacuerdo a las caracteristica de los pacientes usando algoritmos de inteligencia artificial.
+**Objetivo:** Clasificar la existencia de la enfermedad de la diabetes a partir de factores clínicos y hábitos de los pacientes usando algoritmos de inteligencia artificial.
 
 ## Principales metodos utilizados:
 
