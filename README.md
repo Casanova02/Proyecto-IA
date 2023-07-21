@@ -8,22 +8,10 @@ Miembros el grupo:
 
 **Link del dataset:** https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset?select=diabetes_binary_5050split_health_indicators_BRFSS2015.csv
 
-## Principales metodos utilizados:
-
-### Machine learning:
-
-  * Gaussian naive bayes
-  * Desicion Tree
-  * Random Forest
-  * Support Vector machine
-
-### Deep learning:
-
- * Red densa de 4 capas 
-
+## Métodos utilizados: Gaussian naive bayes, Desicion Tree, Random Forest, Support Vector Machine (SVM), Red densa
 
 ### Link del repositorio:
   * https://github.com/Casanova02/Proyecto-IA
 
 ### Link del video:
-  * por colocar
+  * https://youtu.be/TXeRwjrKuMo
