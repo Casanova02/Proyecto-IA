@@ -22,3 +22,6 @@ Este proyecto esta enfocado en el uso de un dataset medico con pacientes que pad
 
  * Red densa de 4 capas 
 
+
+### Link del repositorio:
+  * 
