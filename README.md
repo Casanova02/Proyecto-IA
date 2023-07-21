@@ -1,6 +1,5 @@
 # Diagnóstico de diabetes a partir de factores clínicos y hábitos
 
-Miembros el grupo:
 
 **Autores:** Laura Rodriguez Cala, Oscar Andres Ramirez Serna, Santiago Leal Casanova
 
