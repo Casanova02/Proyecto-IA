@@ -1,3 +1,5 @@
+![Banner del proyecto](https://raw.githubusercontent.com/Casanova02/Proyecto-IA/main/BannerProyecto.jpg)
+
 # Diagnóstico de diabetes a partir de factores clínicos y hábitos
 
 
