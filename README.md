@@ -24,4 +24,4 @@ Este proyecto esta enfocado en el uso de un dataset medico con pacientes que pad
 
 
 ### Link del repositorio:
-  * 
+  * https://github.com/Casanova02/Proyecto-IA
